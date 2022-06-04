@@ -1,4 +1,7 @@
 <?php
+
+header("Access-Control-Allow-Origin: http://localhost");
+
 $userList = [
     ["id" => 1, "username" => "vipearn", "password" => "asd", "email"=> "vipearn@abv.bg"],
     ["id" => 2, "username" => "wipstars", "password" => "asd", "email"=> "wipstars@abv.bg"],
