@@ -1,5 +1,6 @@
 {
   "name": "tasks-app",
+  "homepage": "http://manage.dnevnik.esy.es",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
